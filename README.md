@@ -7,5 +7,5 @@ features:
 dolphin_clicks/dolphin_id.py:
  - building the model
  
-dolphin_clicks/file_utilites:
+dolphin_clicks/lib/file_utilites:
  - utilities used
